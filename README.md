@@ -38,7 +38,7 @@ This application uses the Open Trivia Database API to fetch boolean trivia quest
 * Click the "True" or "False" button to answer the question.
 * The background color will change to green if the answer is correct or red if it is incorrect.
 * The score will be displayed on the top right of the screen.
-* Once all questions are answered, a end screen will appear.
+* Once all questions are answered, an end screen will appear.
 
 ### Contributing
 
@@ -47,4 +47,4 @@ Feel free to contribute to TriviaQuizzler by:
 * Adding support for different question types.
 * Improving the GUI.
 * Adding a timer.
-* Adding a feature that saves the users score.
+* Adding a feature that saves the user's score.
